@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.bangladesh-details {
+  display: flex;
+}
+.half {
+  width: 50%;
+  padding: 20px;
+  margin: 10px;
+}
+.half img {
+  width: 70%;
+  padding-left: 120px;
+}
+
+.button {
+  text-decoration: none;
+  padding: 15px 40px;
+  background-image: linear-gradient(green, red, green);
+  color: white;
+  font-weight: 700;
+  display: inline-block;
+  margin: 30px;
+  border-radius: 5px;
+}
+.button:hover {
+  background-image: linear-gradient(orange, black, blue);
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+.font-style {
+  font-size: 20px;
+  word-spacing: 4px;
+  line-height: 35px;
+  text-align: justify;
+}
