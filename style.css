@@ -1,6 +1,10 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+section {
+  border: 7px solid grey;
 }
 .bangladesh-details {
   display: flex;
@@ -12,7 +16,7 @@ body {
 }
 .half img {
   width: 70%;
-  padding-left: 120px;
+  padding-left: 140px;
 }
 
 .button {
@@ -38,4 +42,30 @@ h1 {
   word-spacing: 4px;
   line-height: 35px;
   text-align: justify;
+}
+.division-divided {
+  width: 30%;
+  border: 10px;
+  margin: 20px;
+  text-align: justify;
+  padding: 20px;
+  box-shadow: 10px 20px 40px grey;
+}
+
+.modify-style {
+  text-align: center;
+}
+h2 {
+  padding: 5px;
+  text-align: center;
+}
+.sec-2nd {
+  margin-top: 100px;
+}
+.img-sec img {
+  width: 100%;
+}
+
+    
+
 }
