@@ -50,6 +50,7 @@ h1 {
   text-align: justify;
   padding: 20px;
   box-shadow: 10px 20px 40px grey;
+  border-radius: 30px;
 }
 
 .modify-style {
