@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 section {
   border: 7px solid grey;
@@ -61,11 +61,8 @@ h2 {
 }
 .sec-2nd {
   margin-top: 100px;
+  justify-content: space-around;
 }
 .img-sec img {
   width: 100%;
-}
-
-    
-
 }
